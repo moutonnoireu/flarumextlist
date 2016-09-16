@@ -1,2 +1,2 @@
 # flarumextlist
-List of flarum extension
+Read https://github.com/moutonnoireu/flarumextlist/wiki/Extension-List
